@@ -1,0 +1,16 @@
+C:\C#\progect1\progect1\bin\Debug\net5.0\progect1.exe
+C:\C#\progect1\progect1\bin\Debug\net5.0\progect1.deps.json
+C:\C#\progect1\progect1\bin\Debug\net5.0\progect1.runtimeconfig.json
+C:\C#\progect1\progect1\bin\Debug\net5.0\progect1.runtimeconfig.dev.json
+C:\C#\progect1\progect1\bin\Debug\net5.0\progect1.dll
+C:\C#\progect1\progect1\bin\Debug\net5.0\ref\progect1.dll
+C:\C#\progect1\progect1\bin\Debug\net5.0\progect1.pdb
+C:\C#\progect1\progect1\obj\Debug\net5.0\progect1.csprojAssemblyReference.cache
+C:\C#\progect1\progect1\obj\Debug\net5.0\progect1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\progect1\progect1\obj\Debug\net5.0\progect1.AssemblyInfoInputs.cache
+C:\C#\progect1\progect1\obj\Debug\net5.0\progect1.AssemblyInfo.cs
+C:\C#\progect1\progect1\obj\Debug\net5.0\progect1.csproj.CoreCompileInputs.cache
+C:\C#\progect1\progect1\obj\Debug\net5.0\progect1.dll
+C:\C#\progect1\progect1\obj\Debug\net5.0\ref\progect1.dll
+C:\C#\progect1\progect1\obj\Debug\net5.0\progect1.pdb
+C:\C#\progect1\progect1\obj\Debug\net5.0\progect1.genruntimeconfig.cache
